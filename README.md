@@ -97,7 +97,7 @@ zipmirror - Upload zip (zipped) file
 unzipmirror - Extract files
 clone - copy folder to drive
 watch - mirror YT-DL support link
-zipmirror - mirror youtube playlist link as zip
+zipwatch - mirror youtube playlist link as zip
 cancel - Cancel a task
 cancelall - Cancel all tasks
 del - Delete file from Drive
