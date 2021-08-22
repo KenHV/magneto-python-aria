@@ -98,7 +98,7 @@ Plzzz see this for full use of this command https://telegra.ph/Magneto-Python-Ar
 
 /{BotCommands.WatchCommand} [youtube-dl supported link]: Mirror through youtube-dl. Click /{BotCommands.WatchCommand} for more help.
 
-/{BotCommands.ZipWatch} [youtube-dl supported link]: Mirror through youtube-dl and tar before uploading
+/{BotCommands.ZipWatchCommand} [youtube-dl supported link]: Mirror through youtube-dl and tar before uploading
 
 /{BotCommands.CancelMirror} : Reply to the message by which the download was initiated and that download will be cancelled
 
